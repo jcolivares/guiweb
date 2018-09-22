@@ -1,0 +1,6 @@
+
+input:focus {
+    font-size: 4em;
+    background: red;
+    color: yellow;
+}
