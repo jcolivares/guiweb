@@ -4,3 +4,8 @@ input:focus {
     background: red;
     color: yellow;
 }
+
+h1 {
+    font-size: 3em;
+    color: #FEAFEA;
+}
